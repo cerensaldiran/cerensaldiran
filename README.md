@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ceren</h1>
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React and .NET**
 
 - 📫 How to reach me **cerensaldirann@gmail.com**
 
