@@ -11,6 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cerensaldiran&show_icons=true&locale=en&layout=compact" alt="cerensaldiran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cerensaldiran&show_icons=true&locale=en" alt="cerensaldiran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cerensaldiran&show_icons=true&locale=en" alt="ceren-saldıran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cerensaldiran&" alt="cerensaldiran" /></p>
